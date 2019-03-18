@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <h1>Welcome Prys!</h1>
+    <h1>Welcome Prys dan Ervin!</h1>
     <h2>Yoiiii</h2>
     <p>Lorem ipsum doroth sit amet</p>
     <p><nuxt-link to="/product">Product page</nuxt-link></p>
