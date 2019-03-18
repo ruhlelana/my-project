@@ -1,6 +1,7 @@
 <template>
   <div class="container">
     <h1>Welcome Prys!</h1>
+    <h2>Yoiiii</h2>
     <p><nuxt-link to="/product">Product page</nuxt-link></p>
     <p><nuxt-link to="/product">Contact page</nuxt-link></p>
   </div>
